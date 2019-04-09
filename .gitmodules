@@ -1,0 +1,9 @@
+[submodule "TinyInjector"]
+	path = TinyInjector
+	url = https://github.com/shunix/TinyInjector.git
+[submodule "UidCtrl/xHook"]
+	path = UidCtrl/xHook
+	url = https://github.com/iqiyi/xHook.git
+[submodule "UidCtrl/android_system_nfc"]
+	path = UidCtrl/android_system_nfc
+	url = https://github.com/LineageOS/android_system_nfc.git
